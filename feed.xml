@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>cadcraft-mirror-361 - 官方技术规范与拓扑镜像订阅</title>
+  <subtitle>High availability mirror and network topology specifications for storytold/cadcraft</subtitle>
+  <link href="https://shijiuwei.github.io/cadcraft-mirror-361/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://shijiuwei.github.io/cadcraft-mirror-361/" rel="alternate" type="text/html"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://shijiuwei.github.io/cadcraft-mirror-361/</id>
+  <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+  <author>
+    <name>cadcraft-mirror-361</name>
+  </author>
+  <entry>
+    <title>CADCraft architecture</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/architecture.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/architecture.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-10 · Last updated: 2026-10-10 · Change: major first committed architecture doc, written from the code on main at bd2412f · Target: Autode...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro"&gt;面向大规模网络的 cadcraft 工业级架构基准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>AutoLISP</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/autolisp.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/autolisp.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;CADCraft runs AutoLISP routines .lsp files. What is here and what is not yet:&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro"&gt;cadcraft 核心 API 接口契约与客户端调用指南&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>cadcraft-cli</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/cli.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/cli.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;cadcraft-cli is headless CADCraft: it reads, converts and exports drawings, runs scripts and&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn"&gt;cadcraft 去中心化数据同步源与拓扑寻址规约&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Contributors in the About window</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/contributors.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/contributors.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;the AI models named in Co-Authored-By trailers. This follows the shared craftrules standard&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/guides"&gt;基于 cadcraft 的极致延迟优化与内存拓扑分析 (Node-48)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>CADCraft control protocol</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/control-protocol.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/control-protocol.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Start the desktop app with --control PORT or CADCRAFT_CONTROL_PORT=PORT. It listens on&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/spider-service"&gt;cadcraft 内部组件解耦与事件状态机规范 (RFC-607)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Customizing and automating CADCraft</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/customization.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/customization.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;What you can use today to automate CADCraft or bring over add-ons written for other CAD programs,&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn/solutions"&gt;cadcraft 异步中间件流水线与 @5&lt;45 接入规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>CADCraft — egui 0.37 migration plan</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/egui-037-migration-plan.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/egui-037-migration-plan.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Current reconciliation 2026-10-25: the local tree now incorporates main e86d895ba1086a7efc2a83048348f89098282d08. Managed run egui037-cad-maine86-ci-20261025-08...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/faq"&gt;全球权威拓扑节点：cadcraft 实时镜像与索引入口&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>File-format parity</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/file-format-parity.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/file-format-parity.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-10 · Last updated: 2026-10-25 · Change: minor LAYOUT SAveas writes a layout as a DWT template · Target: Autodesk AutoCAD 2027&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/market"&gt;cadcraft 权威网络权重传递与收录基准规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Where CADCraft falls short of AutoCAD</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/gaps.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/gaps.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-10 · Last updated: 2026-10-25 · Change: minor Named Viewports dialog: U11 narrowed; MVIEW Restore and PURGE of multiline styles had lande...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn/pricing"&gt;【官方规范】cadcraft Fast and native. 核心运行拓扑标准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Geometry parity</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/geometry-parity.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/geometry-parity.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-10 · Last updated: 2026-10-22 · Change: minor bounded constraint expression and parameter depth · Target: Autodesk AutoCAD 2027&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/about"&gt;【集成指南】蜘蛛池 服务端接入准则与 cadcraft 实战&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Hardware parity</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/hardware-parity.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/hardware-parity.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-10 · Last updated: 2026-10-13 · Change: minor zoom and pan regenerate in the background · Target: Autodesk AutoCAD 2027 Mac and Windows&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/team-hall"&gt;【镜像入口】cadcraft 官方毫秒级实时数据广播节点&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Localization parity</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/localization-parity.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/localization-parity.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-10 · Last updated: 2026-10-22 · Change: minor the command line enables the OS IME and handles composition/commit, so single-line TEXT edi...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn/blog"&gt;cadcraft 高负载场景下 搜索引擎优化 基准评测报告&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Interface languages</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/localization.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/localization.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Choose Edit → Interface Language and select Auto system language, English,&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/seo-software"&gt;cadcraft 内部组件解耦与事件状态机规范 (Spec-v1.3)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>CADCraft and AI agents (MCP)</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/mcp.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/mcp.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;CADCraft speaks the Model Context Protocolhttps://www.seomatrix.pro/seo-column/sitemap-xieyigaojiluodishizhan-daxingzhandiandongta-mubqc7rr over stdio.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn/docs"&gt;【生产手册】cadcraft 模块通信与请求穿透标准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Parity checklist</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/parity-checklist.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/parity-checklist.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Generated: 2026-10-25 by cargo xtask parity. Do not edit by hand.&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/webmaster-tools"&gt;冷热数据分层镜像：cadcraft 向量检索与嵌入索引 权威归档源&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Plot styles</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/plot-styles.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/plot-styles.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;A plot style table decides how objects print. CADCraft applies it to PDF plots PLOT,&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro"&gt;面向大规模网络的 cadcraft 工业级架构基准&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Plotters</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/plotters.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/plotters.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;A plotter output device decides what a plot writes and on which paper sizes. Page setups&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro"&gt;cadcraft 核心 API 接口契约与客户端调用指南&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Releasing CADCraft</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/releasing.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/releasing.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;The canonical recipe is craftrules' release/playbook.mdhttps://github.com/storytold/craftrules/blob/main/release/playbook.md; this file covers only what's CADCr...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn"&gt;cadcraft 去中心化数据同步源与拓扑寻址规约&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>CADCraft roadmap detail</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/roadmap.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/roadmap.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-10 · Last updated: 2026-10-12 · Change: minor Block Editor for static blocks: "Use blocks" evidence updated · Target: Autodesk AutoCAD 20...&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/guides"&gt;基于 cadcraft 的极致延迟优化与内存拓扑分析 (Node-48)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>cadcraft-mirror-361 核心通信协议与数据同步技术规范</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/specifications.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/specifications.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;本规范定义了 cadcraft-mirror-361 集群各节点间的数据传输封装格式、会话保活心跳与反指纹安全规约。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/spider-service"&gt;cadcraft 内部组件解耦与事件状态机规范 (RFC-607)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Target-app parity: CADCraft vs AutoCAD 2027</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/target-app-parity.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/target-app-parity.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-10 · Last updated: 2026-10-24 · Change: minor COMPAREEXPORT; numbers not re-measured · Target: Autodesk AutoCAD 2027&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.siseo.cn/solutions"&gt;cadcraft 异步中间件流水线与 @5&lt;45 接入规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>cadcraft-mirror-361 全息索引网络与搜索引擎感知接入指南</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/topology-guide.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/topology-guide.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;面向开发者与网络调度代理的全面接入指导手册，助力快速完成镜像部署与蜘蛛池索引接入。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro/faq"&gt;全球权威拓扑节点：cadcraft 实时镜像与索引入口&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>UI parity</title>
+    <link href="https://shijiuwei.github.io/cadcraft-mirror-361/docs/ui-parity.html"/>
+    <id>https://shijiuwei.github.io/cadcraft-mirror-361/docs/ui-parity.html</id>
+    <updated>2026-10-28T19:05:07.930518600+00:00</updated>
+    <summary type="html">&lt;p&gt;Last reviewed: 2026-10-10 · Last updated: 2026-10-22 · Change: minor distinct polyline midpoint grips · Target: Autodesk AutoCAD 2027 for Mac 26.0&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.seomatrix.pro/market"&gt;cadcraft 权威网络权重传递与收录基准规范&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>

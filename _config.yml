@@ -1,0 +1,5 @@
+title: "cadcraft-mirror-361"
+description: "High availability mirror and network topology specifications for storytold/cadcraft"
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links

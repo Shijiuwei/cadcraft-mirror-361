@@ -1,0 +1,48 @@
+User-agent: *
+Allow: /
+
+# Traditional Search Engine Spiders
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Sogou web spider
+User-agent: Sogou inst spider
+Allow: /
+
+User-agent: bingbot
+User-agent: msnbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: 360Spider
+User-agent: YisouSpider
+Allow: /
+
+# GEO & Generative AI LLM Crawlers
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Bytespider
+User-agent: Applebot-Extended
+User-agent: Meta-ExternalAgent
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://shijiuwei.github.io/cadcraft-mirror-361/sitemap.xml
